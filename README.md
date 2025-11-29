@@ -7,6 +7,7 @@
 👾 JavaScript • Next.js • React • Node.js  
 🔭 Currently building scalable backend API  
 
-### Contact
-- Telegram: <a style="color : #ffaf1c" href="https://t.me/mojtaba_bb_dev" >@mojtaba_bb_dev</a>
-- Email: <a style="color : #ffaf1c" href="mailto:m.baghibeirag@gmail.com">m.baghibeirag@gmail.com</a>
+## 📨 Contact
+[![Telegram](https://img.shields.io/badge/Telegram-@mojtaba_bb_dev-%23ffaf1c)](https://t.me/mojtaba_bb_dev)
+[![Email](https://img.shields.io/badge/Email-m.baghibeirag@gmail.com-%23ffaf1c)](mailto:m.baghibeirag@gmail.com)
+
