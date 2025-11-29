@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mojtaba
 
-<img src="./Untitled-1.png" alt="my image" style="width:30%; min-width:300px; padding-top:15px; padding-bottom:15px;"/>
+<img src="./Untitled-1.png" alt="my image" style="width:40%;  padding-top:15px; padding-bottom:15px;"/>
 
 🚀 Fullstack Web Developer  
 🖤 Crafting minimal, dark, and elegant solutions  
